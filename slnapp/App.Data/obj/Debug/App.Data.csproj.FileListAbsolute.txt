@@ -4,3 +4,12 @@ C:\Users\EXTENSION\source\repos\slnapp\App.Data\bin\Debug\App.Data.dll
 C:\Users\EXTENSION\source\repos\slnapp\App.Data\bin\Debug\App.Data.pdb
 C:\Users\EXTENSION\source\repos\slnapp\App.Data\obj\Debug\App.Data.dll
 C:\Users\EXTENSION\source\repos\slnapp\App.Data\obj\Debug\App.Data.pdb
+C:\github\vs2019\slnapp\App.Data\bin\Debug\App.Data.dll
+C:\github\vs2019\slnapp\App.Data\bin\Debug\App.Data.pdb
+C:\github\vs2019\slnapp\App.Data\bin\Debug\App.Entities.dll
+C:\github\vs2019\slnapp\App.Data\bin\Debug\App.Entities.pdb
+C:\github\vs2019\slnapp\App.Data\obj\Debug\App.Data.csprojAssemblyReference.cache
+C:\github\vs2019\slnapp\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\github\vs2019\slnapp\App.Data\obj\Debug\App.Data.csproj.CopyComplete
+C:\github\vs2019\slnapp\App.Data\obj\Debug\App.Data.dll
+C:\github\vs2019\slnapp\App.Data\obj\Debug\App.Data.pdb
